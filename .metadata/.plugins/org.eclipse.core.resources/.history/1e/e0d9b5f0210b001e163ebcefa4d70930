@@ -1,0 +1,22 @@
+package application;
+
+import javafx.scene.paint.Color;
+
+public class Square {
+
+	public static double squareX, squareY;
+	public static Color color;
+	
+	public Square(double squareX, double squareY) {
+		this.squareX = squareX;
+		this.squareY = squareY;
+		
+		double randomAlpha = Math.random() + 1;
+		int randomRed = (int)(256 * Math.random());
+		int randomGreen = (int)(256 * Math.random());
+		int randomBlue = (int)(256 * Math.random());
+		this.color = Color.color(randomRed, randomGreen, randomBlue, randomAlpha);
+	}
+	
+	
+}

@@ -1,0 +1,22 @@
+package application;
+
+import java.awt.Color;
+
+public class Square {
+
+	public static double squareX, squareY;
+	public static Color color;
+	
+	public Square(double squareX, double squareY) {
+		this.squareX = squareX;
+		this.squareY = squareY;
+		
+		double randomAlpha = Math.random() + 1;
+		int randomRed = (int)(256 * Math.random());
+		int randomGreen = (int)(256 * Math.random());
+		int randomRed = (int)(256 * Math.random());
+		this.color = new Color();
+	}
+	
+	
+}

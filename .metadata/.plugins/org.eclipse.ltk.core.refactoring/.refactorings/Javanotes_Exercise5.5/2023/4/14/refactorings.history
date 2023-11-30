@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;Javanotes_Exercise7.0/src/application&apos;&#x0D;&#x0A;- Original project: &apos;Javanotes_Exercise5.5&apos;&#x0D;&#x0A;- Destination element: &apos;Javanotes_Exercise7.0/src/application&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     MyAnswer.Card.java&#x0D;&#x0A;     MyAnswer.Deck.java&#x0D;&#x0A;     MyAnswer.BlackjackHand.java&#x0D;&#x0A;     MyAnswer.Hand.java" description="Copy compilation units" destination="=Javanotes_Exercise7.0/src&lt;application" element1="/src&lt;MyAnswer{Card.java" element2="/src&lt;MyAnswer{Deck.java" element3="/src&lt;MyAnswer{BlackjackHand.java" element4="/src&lt;MyAnswer{Hand.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681038008776" units="4" version="1.0"/>
+</session>

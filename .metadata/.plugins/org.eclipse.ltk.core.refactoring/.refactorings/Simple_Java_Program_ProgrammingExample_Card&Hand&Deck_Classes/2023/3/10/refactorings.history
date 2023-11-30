@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Hand.java&apos; to &apos;Simple_JavaFX_Program_ALittleCardGame_HignLowGUI/src/application&apos;&#x0D;&#x0A;- Original project: &apos;Simple_Java_Program_ProgrammingExample_Card&amp;Hand&amp;Deck_Classes&apos;&#x0D;&#x0A;- Destination element: &apos;Simple_JavaFX_Program_ALittleCardGame_HignLowGUI/src/application&apos;&#x0D;&#x0A;- Original element: &apos;CardDeckHand.Hand.java&apos;" description="Copy compilation unit" destination="=Simple_JavaFX_Program_ALittleCardGame_HignLowGUI/src&lt;application" element1="/src&lt;CardDeckHand{Hand.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1678167889974" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Simple_JavaFX_Program_SimplePaint&apos; to &apos;Simple_JavaFX_Program_MouseDragging_SimplePaint&apos;" description="Rename resource &apos;Simple_JavaFX_Program_SimplePaint&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Simple_JavaFX_Program_SimplePaint" name="Simple_JavaFX_Program_MouseDragging_SimplePaint" stamp="1677553382276" updateReferences="true"/>
+</session>

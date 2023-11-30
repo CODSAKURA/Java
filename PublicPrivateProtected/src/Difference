@@ -1,0 +1,14 @@
+
+private – Only this class can access this
+
+nothing (package) – This class + this package can access this
+
+protected – This class + this package + subclasses can access this
+
+public – Anything can access this
+
+So there is a hierarchy of importance: 
+– The class itself has the most access (any modifier) 
+– Then other classes in this package (can be blank, public, protected) 
+– Then subclasses (can be public or protected) 
+– Then ‘world’ (has to be public)

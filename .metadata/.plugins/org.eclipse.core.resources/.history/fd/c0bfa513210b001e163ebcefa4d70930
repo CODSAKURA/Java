@@ -1,0 +1,14 @@
+package application;
+
+public class Square {
+
+	public static double squareX, squareY;
+	public static Color color();
+	
+	public Square(double squareX, double squareY) {
+		this.squareX = squareX;
+		this.squareY = squareY;
+	}
+	
+	
+}

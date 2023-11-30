@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StatCalc.java&apos; to &apos;Javanotes_Exercise6.7/src/application&apos;&#x0D;&#x0A;- Original project: &apos;Javanotes_Exercise5.2&apos;&#x0D;&#x0A;- Destination element: &apos;Javanotes_Exercise6.7/src/application&apos;&#x0D;&#x0A;- Original element: &apos;MyAnswer.StatCalc.java&apos;" description="Copy compilation unit" destination="=Javanotes_Exercise6.7/src&lt;application" element1="/src&lt;MyAnswer{StatCalc.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1680618678388" units="1" version="1.0"/>
+</session>

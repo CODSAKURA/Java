@@ -1,0 +1,10 @@
+ArrayList
+● Contiguous sequence of storage locations
+● Good for random access to arbitrary items of data
+● Poor performance when inserting/removing
+(especially at the front)
+
+LinkedList
+● Doubly-linked sequence of nodes, each containing an item of data and two pointers
+● Random access very inefficient
+● Insertion/removal anywhere in list is efficient

@@ -1,0 +1,5 @@
+Name:            Di Zhou
+Email:           921748292"qq.com
+Favorite Color:  blue
+Yearly Income:   0.00
+Thank you.  Your profile has been written to profile.txt.

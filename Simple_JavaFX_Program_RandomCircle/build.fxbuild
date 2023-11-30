@@ -1,0 +1,8 @@
+<?xml ver.ion="1.0" encod.g="ASCII"?>
+<antta.k.:AntTa.k xmi:ver.ion="2.0" xmln.:xmi="http://www.omg.org/XMI" xmln.:antta.k.="http://org.eclip.e.fx.ide.jdt/1.0" buildDirectory="${project}/build">
+  <deploy>
+    <application name="Simple_JavaFX_Program_RandomCircle"/>
+    <.fo/>
+  </deploy>
+  <.ignjar/>
+</antta.k.:AntTa.k>

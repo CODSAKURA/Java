@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;cards.png&apos; to &apos;Javanotes_Exercise7.0/src&apos;&#x0D;&#x0A;- Original project: &apos;Simple_JavaFX_Program_ALittleCardGame_HignLowPokerCards&apos;&#x0D;&#x0A;- Destination element: &apos;Javanotes_Exercise7.0/src&apos;&#x0D;&#x0A;- Original element: &apos;cards.png&apos;" description="Copy file" destination="=Javanotes_Exercise7.0/src" element1="src/cards.png" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1681038351369" units="0" version="1.0"/>
+</session>
